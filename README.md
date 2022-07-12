@@ -1,2 +1,2 @@
 # CSSTransformValue
-An Implementation of the WebAPI CSSTransformValue
+A package for parsing the CSS Transform property

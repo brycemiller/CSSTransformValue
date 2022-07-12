@@ -1,0 +1,24 @@
+{
+  "name": "css-transform-parser",
+  "version": "0.0.1",
+  "description": "A package for parsing the CSS Transform property",
+  "main": "CSSTransform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycemiller/CSSTransformValue.git"
+  },
+  "keywords": [
+    "css",
+    "transform",
+    "parse"
+  ],
+  "author": "Bryce Miller <bryce.a.miller@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycemiller/CSSTransformValue/issues"
+  },
+  "homepage": "https://github.com/brycemiller/CSSTransformValue#readme"
+}
