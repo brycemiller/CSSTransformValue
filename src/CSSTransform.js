@@ -1,1 +1,3 @@
-exports.printMsg = () => console.log("CSSTransform installed");
+const printMsg = () => "CSSTransform installed";
+
+export { printMsg };
