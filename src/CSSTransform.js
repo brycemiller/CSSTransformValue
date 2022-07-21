@@ -1,3 +1,16 @@
-const printMsg = () => "CSSTransform installed";
+class CSSTransform {
+  constructor (transformString) {
+    this.transformObj = null;
+    this.parse(transformString);
+  }
 
-export { printMsg };
+  parse (transformString) {
+    this.transformObj = transformString;
+  }
+
+  toString () {
+    return this.transformObj;
+  }
+}
+
+export { CSSTransform };

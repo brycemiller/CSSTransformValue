@@ -1,6 +1,6 @@
 {
   "name": "css-transform-parser",
-  "version": "0.0.3c",
+  "version": "0.0.4",
   "description": "A package for parsing the CSS Transform property",
   "main": "src/CSSTransform.js",
   "type": "module",
